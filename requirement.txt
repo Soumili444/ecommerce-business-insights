@@ -1,0 +1,4 @@
+All python libraries used in the project
+
+pandas
+plotly
